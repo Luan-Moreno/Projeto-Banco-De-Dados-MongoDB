@@ -4,4 +4,4 @@ Um modelo de banco de dados NoSQL Document Store para ser usado por uma faculdad
 ## Alunos
 Luan Petroucic Moreno | 22.122.076-7
 <br>
-Vinicius Henrique Silva | 22.122.063-5
+Vinicius Henrique Silva |  22.122.063-5
